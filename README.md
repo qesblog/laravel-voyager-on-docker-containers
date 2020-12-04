@@ -38,3 +38,11 @@ $ bash host.sh
 
 ⑤ブラウザを開いて、Laravelにアクセスします（ドメインやIPアドレスは、環境により異なります）。
 
+
+<br><br><br><br><br>
+
+---
+
+Composerでconflictエラーが出力される場合は、パッケージのバージョンを調整する必要があるかもしれません。
+
+例: [composer-installed-name-version.tsv](composer-installed-name-version.tsv)
